@@ -52,7 +52,7 @@ body.fade-color {
 }
 
 .container-content{
-   background-image: url('background.png');
+   background-image: url("background.png");
    background-size: 50%;
    display: flex;
    justify-content: center;
