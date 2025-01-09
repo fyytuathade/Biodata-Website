@@ -52,7 +52,7 @@ body.fade-color {
 }
 
 .container-content{
-    background-image: url(_f2u__comfy_forest___desktop_background_by_strawberrycottonmilk_dgwdd3k.png);
+    background-image: url ('background.png')
     background-size: 50%;
    display: flex;
    justify-content: center;
